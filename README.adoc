@@ -66,6 +66,6 @@ If you change `vk.xml`, you can regenerate the headers by going into
 The other generated files are built as required via dependencies in
 the top-level `Makefile`.
 
-Created by Jason Scott Heise
+Created by Jason Heise
 https://next.frame.io  https://www.x.com
 https://paulwalkerfoundation.org
