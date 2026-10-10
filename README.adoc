@@ -67,5 +67,4 @@ The other generated files are built as required via dependencies in
 the top-level `Makefile`.
 
 Created by Jason Heise
-https://next.frame.io  https://www.x.com
-https://paulwalkerfoundation.org
+Owned by Jason Heise heisejason-png Giters
